@@ -1,9 +1,10 @@
 # Object files
 *.o
-
+ko.txt
 # Libraries
 *.lib
 *.a
+
 
 # Shared objects (inc. Windows DLLs)
 *.dll
